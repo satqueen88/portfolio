@@ -7,7 +7,7 @@ satqueen88と申します。
 unityを用いて自動運転を用いた研究を行いながら、
 CGや映像を触って制作などもしています。
 
-ツール（zbrush,blender,aftereffect,atom,unity）
+ツール（zbrush,blender,aftereffect,atom,vscode,unity）
 
 画像処理を勉強中です。
 
@@ -40,8 +40,8 @@ CGや映像を触って制作などもしています。
 #### 大学院生：個人で行ってみる
 > - 画像分類
 > - [画像自動取得](https://github.com/satqueen88/flockrAPI_image)
-> - モデル予測制御(https://github.com/satqueen88/MPC)
-> - 車両状態予測(https://github.com/satqueen88/dynamics)
+> - [モデル予測制御](https://github.com/satqueen88/MPC)
+> - [車両状態予測](https://github.com/satqueen88/dynamics)
 
 ### 【研究】
 ｢自動運転から手動運転への操作権限委譲時における障害物回避操舵特性｣
