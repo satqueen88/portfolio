@@ -7,7 +7,7 @@ satboom88と申します。
 unityを用いて自動運転を用いた研究を行いながら、
 CGや映像を触って制作などもしています。
 
-ツール（zbrush,blender,aftereffect,atom,vscode,unity）
+ツール（zbrush,blender,aftereffect,atom,vscode,unity,matlab）
 
 画像処理を勉強中です。
 
