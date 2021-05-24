@@ -42,6 +42,7 @@ CGや映像を触って制作などもしています。
 > - [画像自動取得](https://github.com/satqueen88/flockrAPI_image)
 > - [モデル予測制御](https://github.com/satqueen88/MPC)
 > - [車両状態予測](https://github.com/satqueen88/dynamics)
+> - [SSI2020計測自動制御学会　発表](https://ssi2020.sice.or.jp/)
 
 ### 【研究】
 ｢自動運転から手動運転への操作権限委譲時における障害物回避操舵特性｣
