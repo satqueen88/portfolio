@@ -9,7 +9,7 @@ CGや映像を触って制作などもしています。
 
 ツール（zbrush,blender,aftereffect,atom,vscode,unity,matlab）
 
-画像処理を勉強中です。
+制御工学やデータサイエンスなどを勉強中です。
 
 ### 【所属】
 立命館大学情報理工学部プロジェクト団体RiG++(引退)   
